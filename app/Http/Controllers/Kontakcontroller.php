@@ -95,7 +95,7 @@ class Kontakcontroller extends Controller
     public function editjenis($id)
     {
         $jk = jenis_kontak::find($id);
-        return view('jenis-edit', compact('jk'));
+        return view('layout.sidebar.jenis_edit', compact('jk'));
     }
 
     /**
