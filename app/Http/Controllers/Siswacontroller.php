@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Support\facades\Session;
+use Session;
 use App\Models\siswa;
 use App\Models\kontak;
 use Illuminate\Support\facades\file;
