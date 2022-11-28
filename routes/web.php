@@ -2,10 +2,10 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Dashboardcontroller;
-use App\http\Controllers\Siswacontroller;
-use App\http\Controllers\Projectcontroller;
-use App\http\Controllers\Kontakcontroller;
-use App\http\Controllers\LoginController;
+use App\Http\Controllers\Siswacontroller;
+use App\Http\Controllers\Projectcontroller;
+use App\Http\Controllers\Kontakcontroller;
+use App\Http\Controllers\LoginController;
 
 
 /*
